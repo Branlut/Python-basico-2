@@ -2,7 +2,7 @@
 
 ## Descripción
 - Es uno de los primeros proyectos que realice utilizando pandas para interpretar resultados posteriormente.
-- compararás las preferencias musicales de las ciudades de Springfield y Shelbyville. Estudiarás datos reales de transmisión de música online para probar la hipótesis a continuación y comparar el comportamiento de los usuarios y las usuarias de estas dos ciudades.
+- comparación de las preferencias musicales de las ciudades de Springfield y Shelbyville. Estudiar datos reales de transmisión de música online para probar la hipótesis a continuación y comparar el comportamiento de los usuarios y las usuarias de estas dos ciudades.
 
 ## Objetivo
 Prueba la hipótesis:La actividad de los usuarios y las usuarias difiere según el día de la semana y dependiendo de la ciudad.
